@@ -1,4 +1,4 @@
-# ai, qa, ml projects
+# AI, QA, ML projects
 This repository contains selected projects completed as part of UBC's Applied Machine Learning (CPSC 330) course. The course focused on practical ML techniques, model development, and responsible AI practices.
 ## Projects Included
 

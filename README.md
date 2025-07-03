@@ -1,5 +1,20 @@
-# Homework
+# CPSC 330 Applied Machine Learning Projects
 
-In general, your homework assignment will require you to clone this repo, and answer the questions in the `.ipynb` file.
+This repository contains selected projects completed as part of UBC's Applied Machine Learning (CPSC 330) course. The course focused on practical ML techniques, model development, and responsible AI practices.
 
-For submission instructions, [please see the course website](https://ubc-cs.github.io/cpsc330-2025S1/docs/homework_instructions.html).
+## Projects Included
+
+### 🟢 Logistic Regression & Hyperparameter Optimization
+- Explored binary classification tasks using logistic regression.
+- Applied hyperparameter tuning and evaluated models with accuracy and F1-score metrics.
+
+### 🟢 Clustering with K-Means & DBSCAN
+- Implemented unsupervised learning algorithms for dataset segmentation.
+- Visualized clusters and compared methods like K-means and hierarchical clustering.
+
+### 🟢 Word Embeddings & Topic Modeling
+- Applied Word2Vec and GloVe embeddings to capture semantic relationships in text.
+- Performed topic modeling using unsupervised learning for text analysis.
+
+## Technologies
+- Python, scikit-learn, Jupyter Notebooks, Matplotlib, Numpy, Pandas

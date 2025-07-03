@@ -1,15 +1,18 @@
-# Clustering with K-Means, DBSCAN, and Hierarchical Methods
+## Project Objectives
 
-This project applies unsupervised learning techniques to segment datasets, focusing on clustering algorithms and their interpretation.
+- Built logistic regression models for supervised learning tasks.
+- Applied hyperparameter optimization techniques to improve model performance.
+- Evaluated results using accuracy, precision, recall, and F1-score metrics.
+- Interpreted model outputs and assessed generalization ability.
 
-## Key Highlights
-- Implemented K-Means, Hierarchical Clustering, and DBSCAN.
-- Explored cluster evaluation, parameter selection, and visualization techniques.
-- Compared clustering methods to understand strengths and limitations in different scenarios.
-- Developed hands-on expertise in data exploration and unsupervised model application.
+## Technologies Used
 
-## Technologies
-- Python
-- scikit-learn
-- Jupyter Notebooks
-- Matplotlib
+- **Programming Language:** Python
+- **Libraries & Tools:** scikit-learn, Numpy, Pandas, Jupyter Notebook, Matplotlib
+- **Techniques:** Supervised learning, hyperparameter tuning, model evaluation
+
+## Skills Developed
+
+- Practical experience in implementing and tuning classification models.
+- Enhanced understanding of trade-offs in model complexity and overfitting.
+- Strengthened ability to interpret results and communicate machine learning insights.

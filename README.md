@@ -1,18 +1,5 @@
-# AI, QA, ML projects
-This repository contains selected projects completed as part of UBC's Applied Machine Learning (CPSC 330) course. The course focused on practical ML techniques, model development, and responsible AI practices.
-## Projects Included
+# Homework
 
-### 🟢 Logistic Regression & Hyperparameter Optimization
-- Explored binary classification tasks using logistic regression.
-- Applied hyperparameter tuning and evaluated models with accuracy and F1-score metrics.
+In general, your homework assignment will require you to clone this repo, and answer the questions in the `.ipynb` file.
 
-### 🟢 Clustering with K-Means & DBSCAN
-- Implemented unsupervised learning algorithms for dataset segmentation.
-- Visualized clusters and compared methods like K-means and hierarchical clustering.
-
-### 🟢 Word Embeddings & Topic Modeling
-- Applied Word2Vec and GloVe embeddings to capture semantic relationships in text.
-- Performed topic modeling using unsupervised learning for text analysis.
-
-## Technologies
-- Python, scikit-learn, Jupyter Notebooks, Matplotlib, Numpy, Pandas
+For submission instructions, [please see the course website](https://ubc-cs.github.io/cpsc330-2025S1/docs/homework_instructions.html).
